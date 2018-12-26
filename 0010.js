@@ -8,7 +8,7 @@ function digital_root(n) {
     if (res < 10) {
         return res;
     }
-    return digital_root(parseInt(res));
+    return digital_root(res);
 }
 // console.log(digital_root(7));
 // console.log(digital_root(15));
