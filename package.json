@@ -3,11 +3,8 @@
   "version": "1.0.0",
   "description": "> `codeWars练习`\r - 每天一道",
   "main": "index.js",
-  "directories": {
-    "commit": "git-cz"
-  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "commit": "git-cz"
   },
   "repository": {
     "type": "git",
